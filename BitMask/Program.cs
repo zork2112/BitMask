@@ -1,7 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using System.Runtime.CompilerServices;
-
 var returnCode = 10;
 
 var returnCodeFlag = (ExceptionList)returnCode; // can cast int directly Enum 
